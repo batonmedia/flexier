@@ -1,0 +1,16 @@
+{
+  "name": "flexier",
+  "version": "0.0.1",
+  "description": "Flex grid system with various css preprocessors support",
+  "keywords": [
+    "css",
+    "flex",
+    "grid",
+    "sass",
+    "scss",
+    "stylus"
+  ],
+  "repository": "https://github.com/batonmedia/flexier",
+  "author": "Vladislav Krasnoperov <batonmail@gmail.com",
+  "license": "MIT"
+}
